@@ -1,0 +1,19 @@
+2025-12-15 18:55:43,525 - INFO - === [ex_6] ETL pipeline with Mockoon integration started ===
+2025-12-15 18:55:43,526 - INFO - Reading CSV files from C:\Users\andre\OneDrive\Desktop\AECOM\data
+2025-12-15 18:55:43,532 - INFO - === [ex_6] Cleaning products (CSV) ===
+2025-12-15 18:55:43,535 - INFO - [ex_6/products] Clean rows: 150
+2025-12-15 18:55:43,536 - INFO - === [ex_6] Cleaning customers (CSV) ===
+2025-12-15 18:55:43,538 - WARNING - [ex_6/customers] 32 invalid emails set to NULL
+2025-12-15 18:55:43,549 - INFO - [ex_6/customers] Clean rows: 600
+2025-12-15 18:55:43,550 - INFO - === [ex_6] Cleaning sales (CSV) ===
+2025-12-15 18:55:43,552 - WARNING - [ex_6/sales] Dropping 109 rows with invalid quantity
+2025-12-15 18:55:43,555 - WARNING - [ex_6/sales] Dropping 108 rows with invalid transaction_date
+2025-12-15 18:55:43,557 - INFO - [ex_6/sales] Clean rows: 1353
+2025-12-15 18:55:43,559 - INFO - === [ex_6] Fetching product metadata from Mockoon ===
+2025-12-15 18:55:43,620 - INFO - [API] Retrieved 151 metadata rows from Mockoon
+2025-12-15 18:55:43,621 - INFO - === [ex_6] Enriching products with API metadata ===
+2025-12-15 18:55:43,623 - INFO - [ex_6] API metadata matched 150/150 products (100.0%)
+2025-12-15 18:55:43,624 - INFO - === [ex_6] Loading data into MariaDB ===
+2025-12-15 18:55:43,624 - INFO - DB: AECOMDB @ 192.168.0.12:3306
+2025-12-15 18:55:43,922 - INFO - [load] ex_6_products: 150, ex_6_customers: 600, ex_6_sales: 1353
+2025-12-15 18:55:43,923 - INFO - === [ex_6] ETL pipeline finished successfully ===

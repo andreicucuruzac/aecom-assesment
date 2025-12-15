@@ -1,0 +1,151 @@
+product_id,product_name,category,price
+P0001,Table Lamp,Home,423.19
+P0002,Jump Rope,Sports,407.79
+P0003,Football,Sports,196.31
+P0004,Tennis Racket,Sports,190.77
+P0005,,Electronics,58.63
+P0006,Table Lamp,Home,55.6
+P0007,,Home,296.26
+P0008,Non-stick Pan,Home,37.45
+P0009,Basketball,Sports,385.38
+P0010,,ELECTRONICS,127.03
+P0011,Paperback Book,Books,340.13
+P0012,Running Shoes,Clothing,341.42
+P0013,,Sports,365.17
+P0014,Wool Sweater,Clothing,208.22
+P0015,History Book,Books,15.0
+P0016,Ceramic Mug,Home,142.8
+P0017,Ceramic Mug,Home,490.86
+P0018,Vacuum Cleaner,Home,440.48
+P0019,Gaming Keyboard,Electronics,212.95
+P0020,Wool Sweater,Clothing,N/A
+P0021,Cotton T-Shirt,Clothing,44.91
+P0022,Portable Charger,electronics,263.42
+P0023,Non-stick Pan,home,N/A
+P0024,Jump Rope,Sports,266.5
+P0025,Bluetooth Speaker,Electronics,373.66
+P0026,Air Purifier,Home,235.92
+P0027,Ceramic Mug,Home,398.68
+P0028,Basketball,Sports,395.49
+P0029,Baseball Cap,CLOTHING,449.55
+P0030,Ceramic Mug,HOME,133.77
+P0031,Programming Guide,Books,-209.01
+P0032,Baseball Cap,Clothing,140.09
+P0033,Cookbook,books,280.87
+P0034,Table Lamp,Home,491.75
+P0035,Bluetooth Speaker,Electronics,N/A
+P0036,Portable Charger,Electronics,-463.77
+P0037,Running Shoes,clothing,118.39
+P0038,Smartwatch,Electronics,495.25
+P0039,Vacuum Cleaner,Home,257.92
+P0040,Wireless Headphones,Electronics,356.53
+P0041,Cycling Helmet,Sports,412.85
+P0042,,Sports,304.19
+P0043,Cycling Helmet,Sports,104.0
+P0044,Wireless Mouse,Electronics,217.49
+P0045,Programming Guide,Books,180.07
+P0046,Wireless Headphones,Electronics,421.48
+P0047,Science Fiction Novel,Books,26.46
+P0048,Basketball,Sports,173.84
+P0049,Football,Sports,73.58
+P0050,Baseball Cap,Clothing,235.75
+P0051,,books,251.18
+P0052,Stainless Steel Bottle,Home,73.61
+P0053,Non-stick Pan,Home,N/A
+P0054,Yoga Mat,Sports,311.6
+P0055,Jump Rope,Sports,186.32
+P0056,Non-stick Pan,Home,157.17
+P0057,Yoga Mat,Sports,49.02
+P0058,Webcam HD,electronics,72.44
+P0059,Ceramic Mug,HOME,71.81
+P0060,Table Lamp,Home,328.31
+P0061,Cotton T-Shirt,clothing,187.86
+P0062,Running Shoes,Clothing,49.82
+P0063,History Book,Books,62.26
+P0064,,Home,377.19
+P0065,Running Shoes,Clothing,444.42
+P0066,Basketball,Sports,-82.51
+P0067,Stainless Steel Bottle,Home,235.31
+P0068,Paperback Book,Books,352.19
+P0069,USB Keyboard,Electronics,212.36
+P0070,LED Monitor,Electronics,86.78
+P0071,Yoga Mat,Sports,147.73
+P0072,Air Purifier,home,104.84
+P0073,Science Fiction Novel,Books,448.85
+P0074,Bluetooth Speaker,Electronics,193.36
+P0075,Wired Mouse,Electronics,332.09
+P0076,Throw Pillow,Home,117.34
+P0077,Cookbook,Books,242.64
+P0078,Wired Mouse,Electronics,311.39
+P0079,Hardcover Book,Books,396.98
+P0080,History Book,Books,54.33
+P0081,Webcam HD,Electronics,225.84
+P0082,Cycling Helmet,Sports,484.15
+P0083,,Sports,253.98
+P0084,Running Shoes,Clothing,490.35
+P0085,Non-stick Pan,Home,155.54
+P0086,Non-stick Pan,Home,147.39
+P0087,Wool Sweater,Clothing,-264.16
+P0088,Sports Shorts,Clothing,356.61
+P0089,Vacuum Cleaner,Home,243.01
+P0090,Ceramic Mug,Home,491.19
+P0091,Wireless Headphones,Electronics,47.64
+P0092,Wired Headphones,Electronics,5.1
+P0093,Science Fiction Novel,Books,216.89
+P0094,Basketball,Sports,263.97
+P0095,Science Fiction Novel,Books,313.75
+P0096,Stainless Steel Bottle,Home,142.78
+P0097,,Sports,447.4
+P0098,Tennis Racket,Sports,316.43
+P0099,Stainless Steel Bottle,Home,428.38
+P0100,USB Keyboard,Electronics,339.64
+P0101,Air Purifier,Home,188.84
+P0102,Baseball Cap,Clothing,333.63
+P0103,Fantasy Novel,Books,273.83
+P0104,Wireless Mouse,Electronics,287.84
+P0105,Yoga Mat,Sports,491.74
+P0106,Smartwatch,Electronics,29.85
+P0107,Wireless Mouse,Electronics,182.79
+P0108,Wireless Headphones,electronics,376.35
+P0109,,Books,202.74
+P0110,Running Shoes,Clothing,88.96
+P0111,Ceramic Mug,Home,18.04
+P0112,History Book,Books,260.83
+P0113,Non-stick Pan,HOME,N/A
+P0114,LED Monitor,Electronics,269.18
+P0115,Raincoat,Clothing,36.1
+P0116,Wireless Headphones,Electronics,360.19
+P0117,Football,Sports,374.13
+P0118,Denim Jeans,Clothing,55.01
+P0119,Sports Shorts,Clothing,300.85
+P0120,Denim Jeans,Clothing,409.19
+P0121,Air Purifier,Home,6.22
+P0122,Science Fiction Novel,Books,247.32
+P0123,Science Fiction Novel,Books,N/A
+P0124,Wired Headphones,Electronics,468.72
+P0125,Stainless Steel Bottle,Home,-167.09
+P0126,Hiking Backpack,SPORTS,25.3
+P0127,Jump Rope,Sports,16.25
+P0128,Stainless Steel Bottle,home,159.11
+P0129,Jump Rope,Sports,-423.5
+P0130,Sports Shorts,Clothing,176.28
+P0131,Science Fiction Novel,Books,84.7
+P0132,,Electronics,8.4
+P0133,Ceramic Mug,Home,132.72
+P0134,Cycling Helmet,Sports,461.5
+P0135,Throw Pillow,Home,-314.74
+P0136,Table Lamp,Home,383.14
+P0137,Webcam HD,Electronics,86.85
+P0138,Football,Sports,N/A
+P0139,,Home,N/A
+P0140,Yoga Mat,Sports,136.1
+P0141,Denim Jeans,Clothing,334.51
+P0142,Hiking Backpack,Sports,348.7
+P0143,Stainless Steel Bottle,home,315.0
+P0144,Sports Shorts,CLOTHING,288.95
+P0145,Wool Sweater,Clothing,17.54
+P0146,Jump Rope,sports,66.25
+P0147,Wired Mouse,Electronics,90.89
+P0148,Fantasy Novel,Books,118.12
+P0149,,Electronics,N/A
+P0150,Science Fiction Novel,Books,295.5
